@@ -1,0 +1,2 @@
+This is a new file related to potato.
+Adding new text through terminal.
